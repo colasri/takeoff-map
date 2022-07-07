@@ -1,0 +1,9 @@
+jupyter
+numpy
+pandas
+streamlit
+aerofiles
+matplotlib
+altair
+watchdog
+joblib
